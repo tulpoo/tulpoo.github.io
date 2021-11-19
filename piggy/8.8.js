@@ -1,1 +1,1 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{139:function(c,n,p){"use strict";p.r(n),n.default=p.p+"62d53f1c9a844f132c622ac218a4316f.png"}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{72:function(c,n,p){"use strict";p.r(n),n.default=p.p+"62d53f1c9a844f132c622ac218a4316f.png"}}]);
