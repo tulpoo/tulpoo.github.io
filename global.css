@@ -173,3 +173,7 @@ input[type="number"] {
     font-family: "Milliard";
     src: local("Milliard"), url(./fonts/Milliard.otf) format("opentype");
 }
+@font-face {
+    font-family: "MilliardBold";
+    src: local("Milliard"), url(./fonts/MilliardBold.otf) format("opentype");
+}
